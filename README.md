@@ -45,6 +45,6 @@ I teach and mentor learners in Machine Learning, Deep Learning, NLP and MLOps, c
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/fodha-ghassena64273173/)
+- [LinkedIn](https://www.linkedin.com/in/fodha-ghassen-a64273173/)
 
 Open to AI collaborations, technical projects and freelance opportunities.
